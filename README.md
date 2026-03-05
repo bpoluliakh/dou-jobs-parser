@@ -1,1 +1,1 @@
-# job-salary-analyzer
+# dou-jobs-parser
